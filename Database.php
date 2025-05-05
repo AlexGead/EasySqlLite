@@ -1,6 +1,6 @@
 <?php
 // Author Perchik Aleksandr
-class Database {
+class SQLiteDatabase {
 
     private $db;
     private $filename;
